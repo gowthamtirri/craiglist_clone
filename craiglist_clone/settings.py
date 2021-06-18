@@ -53,7 +53,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'craiglistClone.urls'
+ROOT_URLCONF = 'craiglist_clone.urls'
 
 TEMPLATES = [
     {
@@ -71,7 +71,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'craiglistClone.wsgi.application'
+WSGI_APPLICATION = 'craiglist_clone.wsgi.application'
 
 
 # Database
