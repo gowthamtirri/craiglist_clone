@@ -1,5 +1,4 @@
 from operator import pos
-import re
 from typing import final
 from django.shortcuts import render
 import requests
@@ -52,4 +51,3 @@ def new_search(request):
         }
 
     return render(request, 'new_search.html', stuff_for_frontend)    
-
