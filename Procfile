@@ -1,0 +1,1 @@
+web: craiglist_clone.wsgi
