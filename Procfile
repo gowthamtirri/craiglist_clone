@@ -1,1 +1,1 @@
-web: craiglist_clone.wsgi --log-file -
+web: craiglist_clone.wsgi
