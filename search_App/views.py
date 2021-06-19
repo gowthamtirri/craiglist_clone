@@ -52,3 +52,4 @@ def new_search(request):
         }
 
     return render(request, 'new_search.html', stuff_for_frontend)    
+
